@@ -1,6 +1,6 @@
 ## AMBULANCE SERVICE PROVIDER
 A Advance Ambulance Booking Gui Java Project that can used to get an ambulance service for remote areas.
-The application takes patient information and guides him through differnt the areas in which the services are provided along with differnt hospitals we have tied up with followed by the payment screen, Where Total bill is calculated based on the location of services,hospital selected and number of days the service is required.
+The application takes patient information and guides him through different the areas in which the services are provided along with different hospitals we have tied up with followed by the payment screen, Where Total bill is calculated based on the location of services, hospital selected and number of days the service is required.
 
 ## Building Process
 
