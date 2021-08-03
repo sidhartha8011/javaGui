@@ -88,4 +88,4 @@ During the building process of this project we came across a lot of problems in 
 
 ### Support or Contact
 
-Having some quaries? you can reach me through my linkdin profile [Sidhartha Parasramka](https://www.linkedin.com/in/sidhartha-parasramka/) or [Soumya Agrawal](https://www.linkedin.com/in/soumyaagrawal427/) and we’ll help you sort it out.
+Having some quaries? you can reach us through our linkdin profile [Sidhartha Parasramka](https://www.linkedin.com/in/sidhartha-parasramka/) or [Soumya Agrawal](https://www.linkedin.com/in/soumyaagrawal427/) and we’ll help you sort it out.
