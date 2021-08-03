@@ -1,7 +1,6 @@
 ## AMBULANCE BOOKING SYSTEM
 A Advance Ambulance Booking Gui Java Project that can used to book an ambulance for remote areas.
 The application takes patient information and guides him through differnt the areas in which the services are provided along with differnt hospitals we have tied up with followed by the payment screen, Where Total bill is calculated based on the location of services.
-
  ### Building Process
 
 This project was build by two People me(sidhartha Parasramka) and my teammate(soumya Agrawal) as project to demonstrate our skills that we have mastered during our 2nd year in the college
