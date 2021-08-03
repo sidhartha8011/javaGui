@@ -1,2 +1,2 @@
 # javaGui
-# An amulance booing system Using JAVA Gui
+# An amulance booking system Using JAVA Gui
