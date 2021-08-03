@@ -82,10 +82,10 @@ public MyFrame() {
 ```
 
 
-### Jekyll Themes
+### OUTCOME
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sidhartha8011/javaGui/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+During the building process of this project we came across a lot of problems in our code but we overcame those by going through the various topics related to our project. It have been great experience for us to get to know the industry level of programing and know how we can apply those concepts in r
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having some quaries? you can reach me through my linkdin profile [Sidhartha Parasramka](https://www.linkedin.com/in/sidhartha-parasramka/) or [Soumya Agrawal](https://www.linkedin.com/in/soumyaagrawal427/) and we’ll help you sort it out.
