@@ -10,22 +10,77 @@ We have used various advance concepts such as jawa swings that are widely used i
 ```markdown
 Concepts used
 
-# object orient programing
-## Problem solving
-### JAVA Swings
+-object orient programing
+-Problem solving
+-JAVA Swings
 
-- Bulleted
-- List
+#A Peice of our code
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+public MyFrame() {
+		
+		super("AMBULANCE SERVICE PROVIDER");
+		
+		pinfo =new JPanel();
+		pinfo.setBackground(SystemColor.white);
+		service =new JPanel();
+		service.setBackground(SystemColor.white);
+		calculate =new JPanel();
+		calculate.setBackground(SystemColor.white);
+		hospital =new JPanel();
+		hospital.setBackground(SystemColor.white);
+		
+		JTabbedPane tb = new JTabbedPane();
+		
+		
+		submit= new JButton("SUBMIT");
+		submit1= new JButton("SUBMIT");
+		submit2= new JButton("NEXT");
+		
+		
+		 JLabel lblNewLabel = new JLabel(" ambulance");
+		 lblNewLabel.setIcon(new ImageIcon(ambulance.class.getResource("/java_project/p1.jpg")));
+		 lblNewLabel.setBounds(5,5,969,272);
+		 pinfo.add(lblNewLabel);
+      
+        
+        
+		tb.add("			        Patient Information            ",pinfo);
+		tb.add("			        Service Availiability	       ",service);
+		tb.add("			        Associated Hospitals           ",hospital);
+		tb.add("			        Payment and bill              ",calculate);
+		tb.setFont(new Font("Century Schoolbook", Font.BOLD, 14));
+		add(tb);
+		
+		
+		 //info panel
+	 	 l1=new JLabel("Name");
+	 	 l1.setFont(new Font("Copperplate Gothic Bold", Font.PLAIN, 14));
+		 l2=new JLabel("Contact.NO");
+		 l2.setFont(new Font("Copperplate Gothic Bold", Font.PLAIN, 14));
+		 l3=new JLabel("Gender");
+		 l3.setFont(new Font("Copperplate Gothic Bold", Font.PLAIN, 14));
+		 l4=new JLabel("Pathology");
+		 l4.setFont(new Font("Copperplate Gothic Bold", Font.PLAIN, 14));
+		 l5=new JLabel("D.O. SERVICE");
+		 l5.setFont(new Font("Copperplate Gothic Bold", Font.PLAIN, 14));
+		 l6=new JLabel("Date  ");
+		 l6.setFont(new Font("Arial Narrow", Font.PLAIN, 14));
+		 
+		 tf1=new JTextField("");
+		 tf2=new JTextField("");
+		 tf3=new JTextField("");
+		 tf4=new JTextField("");
+		
+		 pinfo.setLayout(null);
+		 tf1.setBounds(EXIT_ON_CLOSE, ABORT, WIDTH, HEIGHT);
+		
+		 bg1= new ButtonGroup();
+		 c1=new JRadioButton("Male");
+		 c2=new JRadioButton("Female");
+		 bg1.add(c1);
+		 bg1.add(c2);
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
