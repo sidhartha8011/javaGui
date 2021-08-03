@@ -84,7 +84,7 @@ public MyFrame() {
 
 ### OUTCOME
 
-During the building process of this project we came across a lot of problems in our code but we overcame those by going through the various topics related to our project. It have been great experience for us to get to know the industry level of programing and know how we can apply those concepts in r
+During the building process of this project we came across a lot of problems in our code but we overcame those by going through the various topics related to our project. It have been great experience for us to get to know the industry level of programing and know how we can apply those concepts in real world projects
 
 ### Support or Contact
 
